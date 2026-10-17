@@ -4,6 +4,6 @@ node_modules/
 target/
 
 # Configuración local y secretos
-.env
+*.env
 .vscode/
 *.log
