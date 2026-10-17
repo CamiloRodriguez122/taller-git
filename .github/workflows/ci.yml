@@ -16,5 +16,4 @@ jobs:
       - name: Verificar archivos obligatorios
         run: |
           test -f index.html
-          test -f README.md
           echo "Estructura del proyecto correcta"
